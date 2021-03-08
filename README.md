@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋</h1>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social:</h3>
 <p align="left">
+<a href="https://shacheng.co.uk" target="blank"><img align="center" src="/icons/website.svg" alt="Linkedin" height="40" width="40" /></a>
+<a href="https://blog.shacheng.co.uk" target="blank"><img align="center" src="/icons/blog.svg" alt="Linkedin" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/sha-cheng-a3080329/" target="blank"><img align="center" src="/icons/linkedin-icon-2.svg" alt="Linkedin" height="30" width="40" /></a>
 </p>
 
